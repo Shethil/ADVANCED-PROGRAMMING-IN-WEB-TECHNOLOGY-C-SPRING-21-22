@@ -11,4 +11,5 @@ const Studentlist = () => {
         </div>
     );
 }
+
 export default Studentlist;

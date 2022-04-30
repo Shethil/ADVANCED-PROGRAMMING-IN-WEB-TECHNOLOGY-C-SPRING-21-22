@@ -9,5 +9,6 @@ const StudentDetails = () => {
         </div>
     );
 }
+
 export default StudentDetails;
 
